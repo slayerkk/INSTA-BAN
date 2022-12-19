@@ -12,7 +12,7 @@ pkg install python
 
 pkg install python3
 
-git clone 
+git clone https://github.com/slayerkk/INSTA-BAN.git
 
 cd SNAKE
 

@@ -14,9 +14,9 @@ pkg install python3
 
 git clone https://github.com/slayerkk/INSTA-BAN.git
 
-cd SNAKE
+cd INSTA-BAN
 
-python3 snake.py
+python3 KRLHO.py
 
 ────────────¤CONTATO¤────────────
 -

@@ -120,7 +120,7 @@ def enviar_email():
     msg = email.message.Message()
     msg['Subject'] = f'Olá suporte do instagram!, o usuario {a} esta abusando de crianças!'
     msg['From'] = f'{c}'
-    msg['To'] = 'slayerandkr@gmail.com'
+    msg['To'] = 'support@instagram.com'
     password = f'{d}'
     msg.add_header ('Content-Type', 'text/html')
     msg.set_payload(corpo_email )
